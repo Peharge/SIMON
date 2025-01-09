@@ -265,7 +265,6 @@ The goal is to help diagnose lung cancer, breast cancer, prostate cancer, colon 
     | [lung_nodule_ct_detection](https://github.com/Project-MONAI/model-zoo/tree/dev/models/lung_nodule_ct_detection) | RetinaNet | Lung Nodule| CT | The detection model for 3D CT images |
     | [wholeBody_ct_segmentation](https://github.com/Project-MONAI/model-zoo/tree/dev/models/wholeBody_ct_segmentation) | SegResNet | 104 body structures| CT | The segmentation model for 104 tissue from 3D CT images (TotalSegmentator Dataset) |
 
-   
     1.4 (Optional) File Structure for monaibundle app<br>
     To double check and confirm the correct monaibundle app and bundle files structure.
 
@@ -352,7 +351,6 @@ Here is the to-do list for the most important tools and tasks in the project:
 Not done ❌ | Done (min. 1 month) ✔️ | Improvements needed 🔧 | In progress 🔄 | Improvements needed ⚠️
 
 > Note: Hey you, you can always add and check off comments or problems here.
-
 
 ## Transformer
 
