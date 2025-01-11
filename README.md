@@ -350,8 +350,6 @@ Here is the to-do list for the most important tools and tasks in the project:
 
 Not done ❌ | Done (min. 1 month) ✔️ | Improvements needed 🔧 | In progress 🔄 | Improvements needed ⚠️
 
-> Note: Hey you, you can always add and check off comments or problems here.
-
 ## Transformer
 
 ### 1. BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (2018)
